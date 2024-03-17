@@ -1,0 +1,270 @@
+#nav a{ color:white;}
+#nav a:hover{color:MediumSeaGreen;}
+#nav ul{list-style-type:none; }
+#nav li{display:inline;font-weight:bold; }
+#nav {background-color:#053624;padding:30px 30px 20px 30px;width:100%;}
+#form {color:white; border: 5px double black;background-color:#053624;}
+#form a:hover{color:#00FFFF;}
+#form a{color:white;}
+.btn{background-color:#fb4e4e;border:none;font-weight:700;}
+.btn .fa{background-color:MediumSeaGreen;color:black;}
+.btn .fa{display:flex;}
+.btn .fa{-ms-flex:1;/* IE 10 */
+flex:1;}
+#register{color:black;background-color:MediumSeaGreen;}
+#register:hover{background-color:#fb4e4e;}
+
+
+.back {background-color:#053624;}
+
+.white {color:white;padding-left:90px;padding-top:370px;}
+#white {color:white; font-size:60px;font-family:Berlin Sans FB Dem;letter-spacing:2px;font-weight:bold;padding-left:90px;padding-bottom:30px;}
+.black {color:#808080;font-size:20px;padding-left:90px;}
+#new {background-color:MediumSeaGreen;color:black;font-weight:bold;padding:13px 25px 13px 25px;margin-left:90px;font-size:20px;}
+#new:hover{background-color:red;color:white;}
+#old {background-color:#053624;color:white;;font-weight:bold;padding:13px 25px 13px 25px;font-size:20px;margin-left:20px;border:1px solid white;}
+#old:hover{background-color:red;border:1px solid red;}
+.pro {padding-top:260px; width:400px;height:960px; margin-left:100px;}
+#feat {color:white; font-size:60px;font-family:Berlin Sans FB Dem;letter-spacing:2px;font-weight:bold;text-align:center;}
+
+.bit{ padding:20px; }
+#bit{ margin-left:100px;}
+#logo { background-color:#09573a; border-radius:10px; padding-top:45px;padding-bottom:45px;}
+
+.time .fa{background-color:#053624;color:MediumSeaGreen;margin-top:23px;margin-left:20px;font-size:50px;padding:13px 13px 13px 13px;}
+.time{ color:white;background-color:#09573a;border-radius:10px;}
+.real{height:100px;width:100px; padding-top:40px;padding-left:20px;}
+.price a{font-size:30px;color:white;padding-left:20px; padding-top:20px;}
+.price a:hover{color:MediumSeaGreen;}
+.data {padding-left:20px;padding-right:20px;color:#C5C6D0;font-weight:none;}
+.more {color:MediumSeaGreen;padding-bottom:30px;}
+.more:hover{color:red;}
+#feature{padding-bottom:100px;}
+.group{width:620px;padding-right:20px;}
+
+.ether{ width:35px;}
+.ios{color:white; }
+.vol{ color:white;}
+.grey{color:#C5C6D0;font-size: 16px;font-weight: 500;}
+.btc{ color:MediumSeaGreen;}
+#tstyle{ background-color:#09573a; border:1px solid white; border-radius:20px;padding-top:20px;}
+
+
+.map{font-weight:bold;color:#808080;text-align:center;font-size:30px;}
+#road{ border-radius:20px;background-color:#09573a;}
+.bck{ color:#C5C6D0;font-size:20px;padding-left:20px;font-family:Script MT Bold;padding-bottom:20px;}
+#dec {color:white; font-size:45px;font-family:Script MT Bold;letter-spacing:2px;font-weight:bold;padding-left:50px;padding-top:10px;}
+#june{color:white; font-size:45px;font-family:Script MT Bold;letter-spacing:2px;font-weight:bold;padding-left:200px;padding-top:30px;}
+#jan{color:white; font-size:45px;font-family:Script MT Bold;letter-spacing:2px;font-weight:bold;padding-left:200px;padding-top:30px;}
+#nov{color:white; font-size:45px;font-family:Script MT Bold;letter-spacing:2px;font-weight:bold;padding-left:160px;padding-top:30px;}
+
+
+#doll{border-radius:20px;background-color:#09573a;padding-top:50px;padding-left:30px;padding-bottom:50px;border:1px solid #C5C6D0;}
+.aa{height:60px;width:60px;}
+.bb{color:#fb4e4e; font-size:30px;padding-left:80px;margin-bottom:-1px;}
+.cc {color:white;padding-left:148px;}
+.dd{color:MediumSeaGreen;font-weight:bold;font-size:35px; padding-top:15px; margin-bottom:-1px;}
+.ee{color:#C5C6D0;}
+.ff{color:#C5C6D0;padding-top:15px;font-size:20px;}
+.gg{color:#C5C6D0;padding-top:95px;padding-left:194px;font-size:18px;}
+.hh{color:#C5C6D0;font-size:18px;padding-left:86px;padding-top:24px;}
+.ii{color:#C5C6D0;font-size:18px;padding-left:94px;padding-top:15px;}
+.jj{color:#C5C6D0;font-size:18px;padding-left:86px;padding-top:15px;}
+#one{color:white; font-size:50px;font-family: michroma,Sans-serif;font-weight:bold;padding-bottom:10px;padding-left:20px;}
+.datas {padding-left:20px;padding-right:20px;color:#C5C6D0;font-size:17px;}
+.link {height:70px; width:70px;padding-left:30px;}
+.new {font-size:26px;font-weight:500;color:white;font-family: montserrat,Sans-serif;}
+.watch {background:url("group.svg");background-repeat:no-repeat; }
+.reum{height:380px;max-width: 100%;}
+
+
+.we {color:#808080;text-align:center;font-size:23px;line-height: 32px;}
+.la {font-family: montserrat,Sans-serif;font-size: 52px;font-weight:700;color:MediumSeaGreen;text-align:center;}
+.du{font-family: montserrat,Sans-serif;font-size: 17px;font-weight: 500;color:white;text-align:center; margin-top:-14px;padding-bottom:250px;}
+.will{height: auto;max-width: 100%;}
+.sofia{font-family: montserrat,Sans-serif;font-size: 32px;font-weight: 600;margin-bottom: 10px;color:white;text-align:center;margin-top:10px;}
+.mic{font-family: montserrat,Sans-serif;font-size: 16px;font-weight: 500;color:#C5C6D0;text-align:center;}
+.ins {width: 40px;height: 40px;}
+#face {padding-left:60px;}
+
+
+.faq{font-weight:bold;color:#808080;font-size:30px;padding-left:90px;}
+
+
+
+.tupil{padding-top:100px;}
+.four{color:white;font-family: michroma,Sans-serif;font-size: 28px;}
+
+
+.avail {padding-left:20px;margin-top:130px;background-image:url("clears.jpg");border-radius:10px;}
+.roid {color:black;font-size: 38px;font-weight: 700;line-height: 60px;font-family: michroma,Sans-serif;padding-top:20px;padding-left:20px;}
+.sync{color:#141a28;font-family: montserrat,Sans-serif;font-size: 17px;line-height: 32px;padding-top:20px;padding-left:20px;}
+.store{width:183;height:78;padding-left:20px;padding-top:20px;margin-bottom:20px; cursor:pointer;}
+
+.play{height:80px;max-width: 80%; margin-top:100px;}
+.ai {color:MediumSeaGreen; background:white;padding:10px; }
+.ai:hover{color:white;background:#fb4e4e;}
+.gories {font-family: montserrat,Sans-serif;font-size: 22px;font-weight: 700;line-height: 34px;color:white;margin-top:120px;margin-bottom:60px;}
+.vast{margin-bottom:40px;}
+.event a{color:white;font-family: montserrat,Sans-serif;font-size: 16px;}
+.event a:hover{color:MediumSeaGreen;}
+hr { color:white;width:100%;}
+.theme {color:#C5C6D0;font-size: 16px;font-weight: 500;}
+.pay {height: auto;max-width: 100%;}
+.envel {color:MediumSeaGreen;background-color:#09573a;border:0;font-size:27px;}
+.iope {background-color:#09573a;border:0;}
+.apan {background-color:#09573a;border:0;}
+.lr {background-color:MediumSeaGreen;color:black;font-size:27px;}
+.lap {color:white;text-align:center;padding-top:200px;font-family:michroma,Sans-serif;font-size:55px;font-weight:500;letter-spacing:2px;line-height: 1.5;}
+.shiya a{color:white;font-size:16px;text-decoration:none;}
+.shiya a:hover{color:MediumSeaGreen;}
+.shiya {color:white;font-size:16px;text-align:center;padding-bottom:170px;}
+.tops {height: auto;max-width: 100%;}
+.tika {color:MediumSeaGreen;font-family: montserrat,Sans-serif;font-size: 18px;font-weight: 600;padding-left:20px;}
+.dictum {padding-left:20px;color:#C5C6D0;font-family: montserrat,Sans-serif;font-size: 18px;line-height: 32px;}
+.elit {color:#C5C6D0;padding-left:40px;font-family: montserrat,Sans-serif;font-size: 16px;}
+.metus{color:#C5C6D0;text-align:center;font-family: montserrat,Sans-serif;font-size: 16px;line-height: 32px;}
+.mission {font-family: montserrat,Sans-serif;font-size: 24px;font-weight: 700;color:MediumSeaGreen;padding-left:20px;}
+.nam {color:white;font-family: montserrat,Sans-serif;font-size: 16px;}
+.sed {color:black; background:MediumSeaGreen;margin-left:20px;padding:5px 5px 5px 5px;}
+.nam i{font-size:20px;}
+.five {background-color:#09573a;border-bottom-left-radius:15px;border-bottom-right-radius:15px;padding:5px;text-align:center;}
+.service {font-family: montserrat,Sans-serif;font-size: 24px;color:white;text-align:center;}
+.ut{ font-family: montserrat,Sans-serif;font-size: 18px;line-height: 24px;color:#C5C6D0;}
+.jurica{ border-radius:50%;height:100px;float:right;border:2px solid white;}
+.watson {font-family: montserrat,Sans-serif;font-size: 24px;color:white;padding-top:35px;}
+.founder {color:MediumSeaGreen;font-family: montserrat,Sans-serif;font-size: 15px;font-weight: 600;}
+.mi{line-height: 80%;}
+.mattis {font-family: montserrat,Sans-serif;font-size: 18px;line-height: 24px;color:#C5C6D0;text-align:center;}
+.kio {color:MediumSeaGreen; background:white;margin-top:10px;margin-bottom:20px; padding:5px 5px 5px 5px;}
+.kio:hover{color:white;background:#fb4e4e;}
+#twit{font-size:25px;text-align:center;}
+.siv{ color:MediumSeaGreen;background-color:#053624;padding:20px 26px 20px 26px;margin-top:40px;}
+.phone { color:MediumSeaGreen;background-color:#053624;padding:20px 20px 20px 20px;margin-top:40px;}
+.hunt {font-size:40px;text-align:center;}
+.ress a{font-size:35px;color:white;text-align:center; padding-top:20px;font-weight:500;font-family: montserrat,Sans-serif;}
+.ress a:hover{color:MediumSeaGreen;}
+.no {padding-left:20px;padding-right:20px;color:#C5C6D0;text-align:center;padding-bottom:40px;font-size:18px;}
+
+
+
+.tui .fa{font-size:50px;color:MediumSeaGreen;background-color:#09573a;padding:14px 16px 14px 16px;}
+.nibh {color:#C5C6D0;font-family: montserrat,Sans-serif;font-size: 18px;font-weight:600;margin-bottom:-3px;}
+.block {color:#C5C6D0;font-family: montserrat,Sans-serif;font-size: 16px;}
+.eget {color:white;font-size:25px;font-family: montserrat,Sans-serif;}
+
+
+.stock {color:#C5C6D0;font-family: montserrat,Sans-serif;font-weight:bold;font-size:20px;}
+#on { color:white; font-size:50px;font-family:Berlin Sans FB Dem;letter-spacing:2px;font-weight:bold;}
+.ca {color:#C5C6D0;font-family: montserrat,Sans-serif;font-size:16px;}
+.litu .fa{font-size:30px;color:MediumSeaGreen;}
+.ritu{color:white;font-family: montserrat,Sans-serif;font-size: 20px;padding-top:-10px}
+.ritu:hover{color:MediumSeaGreen;}
+
+
+.input-icons i{position:absolute;}
+#contactform .form-control{margin-bottom:20px;background-color:#09573a;border:none;padding-left:30px;border-radius:5px;}
+.icon{ padding: 10px;  color: MediumSeaGreen;min-width: 50px;}
+#contactform .btn{color:white;background-color:MediumSeaGreen;padding-left:80px;padding-right:80px;font-weight:bold;font-size:20px;}
+#emailform {
+
+  display: flex;
+}
+#quote {background-color:MediumSeaGreen;color:black;font-weight:bold;padding:13px 25px 13px 25px;margin-left:460px;font-size:20px;margin-top:49px;}
+#quote:hover{background-color:red;color:white;}
+.premium{background-color:#09573a;border-radius:15px;}
+.basic{background-color:#09573a;margin-top:50px;border-radius:15px;}
+.standard{background-color:#09573a;margin-top:30px;border-radius:15px;}
+.bais{background-color:#fb4e4e;color:white;font-family:montserrat,Sans-serif;font-weight:700;line-height:1.2;font-size:24px;text-align:center;padding-top:20px;padding-bottom:10px;}
+.ro{line-height:.8;color:white;font-family:montserrat,Sans-serif;font-size:50px;text-align:center;}
+.how .fa{background:white;color:red; float:right;font-size:50px;margin-right:30px;margin-top:-10px;padding-top:-10;}
+.fa-fw {font-family: "Font Awesome 5 Free";font-weight: 900;width: 1.25em;color:#a6a6a6;}
+.or{color:#a6a6a6;text-align:center;font-family: montserrat,Sans-serif; font-size: 14px; line-height: 1;}
+#buyyy{color:black;background-color:MediumSeaGreen;margin-left:100px;margin-bottom:20px;}
+#buyyy:hover{background-color:#fb4e4e;}
+
+/*admin*/
+#party{background-color:#09573a;height:657px;}
+.panel{background-color:#053624;}
+.gnd {padding-top:60px;width:730px;padding-left:240px;line-height:20px;}
+#submitse{color:black;background-color:MediumSeaGreen;margin-left:180px;padding:5px 20px 5px 20px;font-size:20px;}
+#kattti {padding:40px 20px 0px 100px;height:420px; width:910px;}
+
+.pil {color:white;font-family:montserrat,Sans-serif;font-weight:800;font-size:54px;text-align:center;padding-top:50px;}
+.board a{color:white;padding-left:70px;font-size:30px;margin-top:-30px;line-height:80px;}
+.board a:hover{color:MediumSeaGreen;}
+.two{color:white; font-size:50px;font-family: michroma,Sans-serif;font-weight:bold;text-align:center;padding-top:50px;}
+.first {background-color:#09573a;margin-top:50px;border-radius:10px;width:900px;text-align:center;margin-left:38px;}
+.soto {color:white;font-size:30px;font-family: michroma,Sans-serif;font-weight:bold;padding-bottom:5px;}
+.spey {background:rgba(5, 54, 36, 0.9);border:10px double black;margin-top:90px;padding:10px;padding-left:20px;padding-right:20px;border-radius:10px;margin-left:370px;}
+.backs {background:url('bitcoin.jpg');background-size:cover;}
+.sting {background-color:#09573a;padding:-40px;color:#C5C6D0;margin-bottom:70px;}
+.zee {color:white;font-size:30px;font-family: michroma,Sans-serif;font-weight:bold;}
+.strax {background-color:#09573a;padding-top:30px;}
+.mini {color:white; font-size:35px;font-family:Berlin Sans FB Dem;padding-left:24px;}
+
+.accordion {
+  background-color: #09573a;
+  color:white ;
+  cursor: pointer;
+  font-size:34px;font-weight:50;
+  width:100%;
+  font-family: montserrat,Sans-serif;
+  text-align: left;
+  border:none;
+  outline: none;
+  transition: 0.4s;
+  display:block;
+  padding:15px 0px 15px 10px;
+  border-radius:10px;
+}
+
+.active, .accordion:hover {background-color:#053624;
+}
+
+.accordion:after {
+  content: '\002B';
+  color: white;
+  font-weight: bold;
+  float: right;
+  margin-right: 25px;
+  background-color: #fb4e4e;
+  padding-left:9px;
+  padding-right:9px;
+  border-radius:7px;
+}
+.active:after {
+  content: "\2212";
+}
+	
+.panels {
+ padding:0 18px;
+  background-color: #053624;
+  border: 1px solid #ddd;
+  border-top:none;
+  color:#C5C6D0;
+  max-height: 0;
+  overflow: hidden;
+  border-radius:10px;
+  transition: max-height 0.2s ease-out;
+}
+
+#submit{color:black;background-color:MediumSeaGreen;margin-left:330px;}
+#submit:hover{background-color:#fb4e4e;}
+
+
+
+.counter {
+    background-color:#f5f5f5;
+    padding: 20px 0;
+    border-radius: 5px;
+}
+
+.count-title {
+    font-size: 40px;
+    font-weight: normal;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-align: center;
+}
+#buyform {color:white; border: 5px double MediumSeaGreen;background-color:#09573a;padding-top:20px;}
